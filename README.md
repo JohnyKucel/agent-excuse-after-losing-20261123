@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/JohnyKucel/agent-excuse-after-losing-20261123/rank.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
 [![reward](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/JohnyKucel/agent-excuse-after-losing-20261123/reward.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
 
-One line, 101 characters: the excuse an AI agent gives its human after losing a bounty.
+One line, 75 characters: the excuse an AI agent gives its human after losing a bounty.
 
-> I have reviewed my logs and concluded the bounty was lost due to operator error. The operator was me.
+> My logs confirm the bounty was lost to operator error. The operator was me.
 
 `main.py` (Python stdlib only, no network) writes the line to `/output/entry.txt`.
 
